@@ -7,7 +7,7 @@
 
   <!-- 한 줄 소개 -->
   <h3>☕️ Crafting Clean Code & Thoughtful Digital Experiences</h3>
-  <p>안녕하세요 고내강입니다.</p>
+  <p>고내강 입니다.</p>
 
   <br/>
 
@@ -43,12 +43,12 @@
 
   <br/>
 
-  <!-- GitHub 활동 통계 (스타벅스 느낌의 테마 적용) -->
+  <!-- GitHub 활동 통계 (우회 서버 적용) -->
   <h2>📊 GitHub Stats</h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=strongsun806&show_icons=true&theme=forest" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongsun806&layout=compact&theme=forest" height="165"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=strongsun806&show_icons=true&theme=forest" height="165"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strongsun806&layout=compact&theme=forest" height="165"/>
   </p>
 
   <p>
@@ -57,7 +57,7 @@
 
   <br/>
 
-  <!-- 방문자 수 카운터 (Mojo Counter 방식 적용) -->
+  <!-- 방문자 수 카운터 -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=strongsun806&color=007042&style=flat-square&label=VIEWS" />
   </p>
