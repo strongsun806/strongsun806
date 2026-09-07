@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- 상단 웨이브 배너 (스타벅스 시그니처 그린 톤) -->
+  <!-- 상단 웨이브 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007042&height=180&section=header&text=Welcome%20to%20strongsun806%27s%20GitHub!&fontSize=32&fontColor=ffffff" width="100%"/>
 
   <br/>
 
   <!-- 한 줄 소개 -->
   <h3>☕️ Crafting Clean Code & Thoughtful Digital Experiences</h3>
-  <p>사용자 경험 향상과 깊이 있는 성장을 다듬어가는 공간입니다.</p>
+  <p>안녕하세요 고내강입니다.</p>
 
   <br/>
 
@@ -43,23 +43,23 @@
 
   <br/>
 
-  <!-- GitHub 활동 통계 (스타벅스 테마 다크 그린 톤) -->
+  <!-- GitHub 활동 통계 (스타벅스 느낌의 테마 적용) -->
   <h2>📊 GitHub Stats</h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=strongsun806&show_icons=true&title_color=007042&text_color=2f3e46&icon_color=007042&bg_color=f4f7f5&border_color=007042" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongsun806&layout=compact&title_color=007042&text_color=2f3e46&icon_color=007042&bg_color=f4f7f5&border_color=007042" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=strongsun806&show_icons=true&theme=forest" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongsun806&layout=compact&theme=forest" height="165"/>
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongsun806&background=f4f7f5&border=007042&stroke=007042&ring=007042&fire=007042&currStreakNum=2f3e46&sideNums=2f3e46&sideTitle=007042&currStreakLabel=007042&dates=52796e" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongsun806&theme=dark" />
   </p>
 
   <br/>
 
-  <!-- 방문자 수 카운터 (스타벅스 초록 배경) -->
+  <!-- 방문자 수 카운터 (Mojo Counter 방식 적용) -->
   <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstrongsun806&count_bg=%23007042&title_bg=%231E3932&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img src="https://komarev.com/ghpvc/?username=strongsun806&color=007042&style=flat-square&label=VIEWS" />
   </p>
 
 </div>
