@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 175" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0d1326"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+
+    <linearGradient id="geminiBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="35%" stop-color="#3b82f6"/>
+      <stop offset="70%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+
+    <linearGradient id="sparkleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+
+    <radialGradient id="auroraGlow" cx="85%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#22d3ee" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .eyebrow {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 11.5px;
+      font-weight: 700;
+      fill: #38bdf8;
+      letter-spacing: 2px;
+    }
+    .hack-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 26px;
+      font-weight: 800;
+      fill: #ffffff;
+      letter-spacing: 0.5px;
+    }
+    .hack-desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13.5px;
+      fill: #94a3b8;
+    }
+    .chip-text {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #e2e8f0;
+    }
+    .year-badge {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 12px;
+      font-weight: 800;
+      fill: #090d16;
+      letter-spacing: 1px;
+    }
+    .sparkle-spin {
+      transform-origin: 88px 88px;
+      animation: pulseScale 4s ease-in-out infinite;
+    }
+    .node-pulse {
+      animation: fadePulse 2.8s ease-in-out infinite;
+    }
+    @keyframes pulseScale {
+      0%, 100% { transform: scale(0.94); opacity: 0.85; }
+      50% { transform: scale(1.06); opacity: 1; }
+    }
+    @keyframes fadePulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 0.95; }
+    }
+  </style>
+
+  <!-- Card Background & Border -->
+  <rect x="2" y="2" width="996" height="171" rx="14" fill="url(#cardBg)" stroke="url(#geminiBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="996" height="171" rx="14" fill="url(#auroraGlow)"/>
+
+  <!-- Left AI Sparkle Emblem -->
+  <g>
+    <circle cx="88" cy="88" r="48" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+    <circle cx="88" cy="88" r="48" fill="none" stroke="url(#geminiBorder)" stroke-width="1.5" stroke-dasharray="6 4" class="node-pulse"/>
+    <!-- Gemini / DeepMind Four-Point Star -->
+    <path class="sparkle-spin" filter="url(#softGlow)"
+      d="M 88 52 C 88 73, 73 88, 52 88 C 73 88, 88 103, 88 124 C 88 103, 103 88, 124 88 C 103 88, 88 73, 88 52 Z"
+      fill="url(#sparkleGrad)"/>
+    <circle cx="114" cy="62" r="3" fill="#fbbf24" class="node-pulse"/>
+    <circle cx="64" cy="112" r="2.5" fill="#22d3ee" class="node-pulse"/>
+  </g>
+
+  <!-- Center Content -->
+  <g transform="translate(164, 0)">
+    <!-- Eyebrow + Verified Pill -->
+    <text x="0" y="42" class="eyebrow">✦ GLOBAL AI INNOVATION MILESTONE</text>
+    <rect x="275" y="28" width="98" height="20" rx="10" fill="#fbbf24"/>
+    <text x="324" y="42" text-anchor="middle" class="year-badge">2026 EDITION</text>
+
+    <!-- Main Title -->
+    <text x="0" y="78" class="hack-title">2026 Google DeepMind AI Hackathon</text>
+
+    <!-- Description -->
+    <text x="0" y="105" class="hack-desc">차세대 파운데이션 모델 및 에이전틱 AI 워크플로우를 고성능 인터랙티브 웹 아키텍처와 결합한 프로덕트 엔지니어링</text>
+
+    <!-- Tech & Role Chips -->
+    <g transform="translate(0, 122)">
+      <rect x="0" y="0" width="148" height="26" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="74" y="17" text-anchor="middle" class="chip-text">🤖 Google DeepMind</text>
+
+      <rect x="158" y="0" width="166" height="26" rx="6" fill="#1e293b" stroke="#818cf8" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="241" y="17" text-anchor="middle" class="chip-text">✨ Gemini &amp; Agentic AI</text>
+
+      <rect x="334" y="0" width="182" height="26" rx="6" fill="#1e293b" stroke="#22d3ee" stroke-width="1" stroke-opacity="0.6"/>
+      <text x="425" y="17" text-anchor="middle" class="chip-text">⚡ Interactive AI UX/Web</text>
+
+      <rect x="526" y="0" width="150" height="26" rx="6" fill="#1e293b" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.7"/>
+      <text x="601" y="17" text-anchor="middle" class="chip-text" fill="#fde68a">🏆 Hackathon Builder</text>
+    </g>
+  </g>
+
+  <!-- Right Decorative Neural Network Mesh -->
+  <g stroke="#38bdf8" stroke-width="1" opacity="0.35">
+    <line x1="885" y1="38" x2="945" y2="62"/>
+    <line x1="945" y1="62" x2="915" y2="118"/>
+    <line x1="885" y1="38" x2="915" y2="118"/>
+    <line x1="915" y1="118" x2="965" y2="138"/>
+    <line x1="945" y1="62" x2="965" y2="138"/>
+    <circle cx="885" cy="38" r="3.5" fill="#22d3ee" class="node-pulse"/>
+    <circle cx="945" cy="62" r="4.5" fill="#818cf8"/>
+    <circle cx="915" cy="118" r="4" fill="#38bdf8" class="node-pulse"/>
+    <circle cx="965" cy="138" r="3" fill="#fbbf24"/>
+  </g>
+</svg>
