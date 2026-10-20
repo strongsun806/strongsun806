@@ -120,12 +120,11 @@
         <p align="center">
           <img src="https://img.shields.io/badge/Google_DeepMind-4285F4?style=plastic&logo=google&logoColor=white"/>
           <img src="https://img.shields.io/badge/Gemini_4_Argon-8E75B2?style=plastic&logo=googlegemini&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WCAG_2.2_AAA-059669?style=plastic"/>
+          <img src="https://img.shields.io/badge/Three.js_3D_Twin-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
         </p>
         <p align="left">
-          <b>Global AI Hackathon Participant (2026)</b><br/>
-          • <a href="https://github.com/strongsun806/GDM_REPO1"><b>AccessPilot AI (ARGON-01)</b></a>: 적대적 레거시 웹을 <code>Gemini 4 Argon</code> AST 재합성 및 <code>Gemma 4 On-Device</code> 개인정보 마스킹으로 실시간 재컴파일하는 WCAG 2.2 AAA 자율 웹 에이전트<br/>
-          • <a href="https://github.com/strongsun806/RE-MEMORY"><b>RE:MEMORY (기억의 필름)</b></a>: 구술 기억을 4막 시네마틱 웹툰 필름과 Web Audio 사운드스케이프로 복원하는 AI 시네마 스튜디오
+          <b><a href="https://github.com/strongsun806/GDM_HACK1">🛡️ SafeCity AI (Track 3: AI for Social Good)</a></b><br/>
+          극한호우·지하철 침수 재난 시 <code>Gemini 4 Argon</code>의 1M 컨텍스트(역사 CAD 도면 + 기상 레이더 + 24개 IoT 수위 센서)와 <code>Companion Safety Verifier Loop</code>를 결합해 일반 승객과 교통약자(방수 엘리베이터 #3) 맞춤형 3D 대피 경로 및 4개국어 음성 안내를 제공하는 실시간 3D 디지털 트윈 관제 시스템입니다.
         </p>
       </td>
       <td width="50%" valign="top">
