@@ -4,28 +4,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=Hyegang%20Kwon%20%F0%9F%8D%AE&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Spatial%20Web%20%E2%80%A2%20High-Performance%20Frontend%20%E2%80%A2%20Creative%20AI%20Engineer&descSize=16&descAlignY=60" width="100%"/>
 
   <!-- 2. 시그니처 폼폼푸린 마스코트 & 타이틀 -->
-  <a href="https://hyegang-portfolio.netlify.app" target="_blank">
+  <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
     <img src="http://sanriokorea.co.kr/wp-content/themes/sanrio/images/n_pompompurin.png" width="115" alt="Pompompurin"/>
   </a>
 
   <h2>🍮 권혜강 (Hyegang Kwon)</h2>
 
   <!-- 실시간 타이핑 애니메이션 -->
-  <a href="https://hyegang-portfolio.netlify.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B3%A0%EB%82%B4%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%AE%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;Crafting+Cute+Yet+High-Performance+3D+Digital+Worlds" alt="Typing SVG" />
+  <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B6%8C%ED%98%9C%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%AE%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;Crafting+Cute+Yet+High-Performance+3D+Digital+Worlds" alt="Typing SVG" />
   </a>
 
   <!-- 3D 입체 글로시(Plastic) 키워드 뱃지 -->
   <p>
-    <img src="https://img.shields.io/badge/🏆_2026_Google_DeepMind_AI_Hackathon-6D28D9?style=plastic&logo=googlegemini&logoColor=white"/>
-    <img src="https://img.shields.io/badge/🧊_3D_Spatial_Web_&_WebGL-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/🍮_Pompompurin_Dev_Lounge-D97706?style=plastic"/>
+    <a href="https://strongsun806.github.io/hyegang-portfolio/#hackathon" target="_blank">
+      <img src="https://img.shields.io/badge/🏆_2026_Google_DeepMind_AI_Hackathon-6D28D9?style=plastic&logo=googlegemini&logoColor=white"/>
+    </a>
+    <a href="https://strongsun806.github.io/hyegang-portfolio/#projects" target="_blank">
+      <img src="https://img.shields.io/badge/🧊_3D_Spatial_Web_&_WebGL-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
+    </a>
+    <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🍮_Pompompurin_Dev_Lounge-D97706?style=plastic"/>
+    </a>
   </p>
 
   <!-- 소셜 & 포트폴리오 링크 -->
   <p>
-    <a href="https://hyegang-portfolio.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white"/>
+    <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
     </a>
     <a href="https://github.com/strongsun806" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -47,7 +53,9 @@
   <!-- 3. 3D 아이소메트릭 플로팅 코어 카드 (DeepMind 해커톤 & 3D 웹 & 핀테크/AI) -->
   <h2>🧊 3D Core Pillars</h2>
 
-  <img src="./assets/3d-milestone-cubes.svg" width="100%" alt="3D Floating Milestone Cards"/>
+  <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
+    <img src="./assets/3d-milestone-cubes.svg" width="100%" alt="3D Floating Milestone Cards"/>
+  </a>
 
   <br/><br/>
 
@@ -94,7 +102,7 @@
         </p>
         <p>
           <code>Web Workers</code> <code>WebSocket</code><br/>
-          <code>Rule Engine</code> <code>Git</code> <code>Netlify</code>
+          <code>Rule Engine</code> <code>Git</code> <code>GitHub Pages</code>
         </p>
       </td>
     </tr>
@@ -111,12 +119,13 @@
         <h3 align="center">✨ 2026 Google DeepMind AI Hackathon</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Google_DeepMind-4285F4?style=plastic&logo=google&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=plastic&logo=googlegemini&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AI_Web_UX-0284C7?style=plastic"/>
+          <img src="https://img.shields.io/badge/Gemini_4_Argon-8E75B2?style=plastic&logo=googlegemini&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WCAG_2.2_AAA-059669?style=plastic"/>
         </p>
         <p align="left">
           <b>Global AI Hackathon Participant (2026)</b><br/>
-          파운데이션 모델 및 에이전틱 AI 워크플로우를 고성능 웹 인터페이스와 결합하여, 복잡한 AI 추론 과정을 직관적으로 경험할 수 있는 프로덕트를 설계·구현했습니다.
+          • <a href="https://github.com/strongsun806/GDM_REPO1"><b>AccessPilot AI (ARGON-01)</b></a>: 적대적 레거시 웹을 <code>Gemini 4 Argon</code> AST 재합성 및 <code>Gemma 4 On-Device</code> 개인정보 마스킹으로 실시간 재컴파일하는 WCAG 2.2 AAA 자율 웹 에이전트<br/>
+          • <a href="https://github.com/strongsun806/RE-MEMORY"><b>RE:MEMORY (기억의 필름)</b></a>: 구술 기억을 4막 시네마틱 웹툰 필름과 Web Audio 사운드스케이프로 복원하는 AI 시네마 스튜디오
         </p>
       </td>
       <td width="50%" valign="top">
