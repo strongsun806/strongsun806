@@ -89,8 +89,8 @@
           <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,arduino,raspberrypi,cpp&perline=3" />
         </p>
         <p>
-          <code>Gemini API</code> <code>Python</code> <code>OpenCV</code><br/>
-          <code>Scikit-Learn</code> <code>Pygame</code> <code>Arduino</code>
+          <code>LangGraph</code> <code>ChromaDB (RAG)</code> <code>Gemini API</code><br/>
+          <code>Python</code> <code>OpenCV</code> <code>Scikit-Learn</code>
         </p>
       </td>
       <td width="34%" align="center" valign="top">
@@ -110,7 +110,7 @@
 
   <br/>
 
-  <!-- 5. 대표 하이라이트 & 프로젝트 (깔끔한 2x2 카드) -->
+  <!-- 5. 대표 하이라이트 & 프로젝트 (깔끔한 2x3 카드) -->
   <h2>🚀 Featured Highlights</h2>
 
   <table width="100%">
@@ -137,6 +137,34 @@
         <p align="left">
           <b>Digital Twin 3D Monitoring Platform</b><br/>
           대규모 공간 인프라 및 1,400+ 센서 노드를 실시간 3D로 가상화한 관제 플랫폼입니다. <code>InstancedMesh</code> 배칭과 백그라운드 스레드 분리로 끊김 없는 60 FPS를 유지합니다.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">✈️ TripPilot</h3>
+        <p align="center">
+          <a href="https://trippilothyegang.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Service-trippilothyegang-059669?style=plastic&logo=streamlit&logoColor=white"/>
+          </a>
+          <img src="https://img.shields.io/badge/LangGraph_RAG-10B981?style=plastic&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ChromaDB-E11D48?style=plastic"/>
+        </p>
+        <p align="left">
+          <b><a href="https://github.com/strongsun806/TripPilot">Intelligent Multi-Hop Travel Copilot</a></b><br/>
+          3D 비행 마스코트 '파일럿 토리'와 함께하는 2-Pass LangGraph RAG 기반 글로벌 여행 플래너입니다. 59개 글로벌 도시 실사 뷰파인더, 무중단 백그라운드 추론, 일자별 분할 동선 지도 및 한글 PDF 가이드북 리포트 자동 생성을 지원합니다.
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ Volt-Spec</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/LangGraph_RAG-10B981?style=plastic&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ChromaDB_Dual-E11D48?style=plastic"/>
+          <img src="https://img.shields.io/badge/MMR_Search-3B82F6?style=plastic"/>
+        </p>
+        <p align="left">
+          <b><a href="https://github.com/strongsun806/voltspec">EV &amp; Battery Engineering RAG Console</a></b><br/>
+          국내외 100종 양산 전기차 제원과 위키백과 문서를 결합한 고전압 배터리 지식 서비스입니다. 엄격한 <code>[근거 N]</code> 인용 엔진, 3단 심층 기술 리포트 생성 및 허위 기술 주장 팩트체크 시스템을 탑재했습니다.
         </p>
       </td>
     </tr>
