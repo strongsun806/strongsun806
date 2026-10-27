@@ -385,6 +385,10 @@
   <!-- 10. 기하학 & 천문학 마무리 시그니처 -->
   <h2>🌌 Celestial Observational Lounge</h2>
 
+  <img src="./assets/audio-visualizer.svg" width="95%" alt="Cosmic Audio Visualizer"/>
+
+  <br/><br/>
+
 ```text
        ✦        .        🪐       .       ✦        .       ✨
              .              *               .       *
