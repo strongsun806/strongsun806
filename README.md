@@ -1,18 +1,18 @@
 <div align="center">
 
   <!-- 1. 깔끔한 웨이빙 헤더 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=Hyegang%20Kwon%20%F0%9F%8D%AE&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Spatial%20Web%20%E2%80%A2%20High-Performance%20Frontend%20%E2%80%A2%20Creative%20AI%20Engineer&descSize=16&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=Hyegang%20Kwon%20%F0%9F%AA%90&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Spatial%20Web%20%E2%80%A2%20High-Performance%20Frontend%20%E2%80%A2%20Creative%20AI%20Engineer&descSize=16&descAlignY=60" width="100%"/>
 
-  <!-- 2. 시그니처 폼폼푸린 마스코트 & 타이틀 -->
+  <!-- 2. 시그니처 기하학 & 천문학 엠블럼 & 타이틀 -->
   <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-    <img src="http://sanriokorea.co.kr/wp-content/themes/sanrio/images/n_pompompurin.png" width="115" alt="Pompompurin"/>
+    <img src="./assets/celestial-geometry.svg" width="135" alt="Celestial Geometry Emblem"/>
   </a>
 
-  <h2>🍮 권혜강 (Hyegang Kwon)</h2>
+  <h2>🪐 권혜강 (Hyegang Kwon)</h2>
 
   <!-- 실시간 타이핑 애니메이션 -->
   <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B6%8C%ED%98%9C%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%AE%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;Crafting+Cute+Yet+High-Performance+3D+Digital+Worlds" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B6%8C%ED%98%9C%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;Navigating+Geometric+%26+Celestial+3D+Digital+Universes" alt="Typing SVG" />
   </a>
 
   <!-- 3D 입체 글로시(Plastic) 키워드 뱃지 -->
@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/🧊_3D_Spatial_Web_&_WebGL-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
     </a>
     <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/🍮_Pompompurin_Dev_Lounge-D97706?style=plastic"/>
+      <img src="https://img.shields.io/badge/🪐_Celestial_3D_Engineer-0284C7?style=plastic&logo=astronomy&logoColor=white"/>
     </a>
   </p>
 
@@ -61,7 +61,7 @@
 
   <!-- 4. 귀여운 3D 입체 키캡 & 스쿼클 스킬셋 (Cute 3D Keycaps & Toolbox) -->
   <h2>🎹 3D Tactile Skill Deck</h2>
-  <p><sub>톡톡 눌리는 귀여운 3D 키캡과 카테고리별 핵심 기술 스택이에요 ✨</sub></p>
+  <p><sub>입체감 있게 반응하는 3D 기하학 키캡과 카테고리별 핵심 기술 스택이에요 ✨</sub></p>
 
   <img src="./assets/3d-keycaps.svg" width="100%" alt="3D Mechanical Keycaps Skillset"/>
 
@@ -207,24 +207,28 @@
   <br/><br/>
 
   <p>
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=strongsun806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9" height="155"/>
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=strongsun806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="155"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=strongsun806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9" height="155"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongsun806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="155"/>
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=strongsun806&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8" height="155"/>
+    <img src="https://streak-stats.demolab.com/?user=strongsun806&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8" height="155"/>
   </p>
 
   <br/>
 
-  <!-- 7. 키치하고 깔끔한 마무리 시그니처 -->
-  <h2>🍮 Pompompurin's Dev Lounge</h2>
+  <!-- 7. 기하학 & 천문학 마무리 시그니처 -->
+  <h2>🌌 Celestial Observational Lounge</h2>
 
 ```text
-       (  /  \  )     ⚡ "Optimizing Frames, Architecting Logic,
-      (  *´-`*  )        and Crafting Thoughtful Digital Universes."
-      (  uu  uu )     
-"방문해 주셔서 감사합니다! 흥미로운 협업이나 기술 이야기는 언제든 환영해요 🍮✨"
+       ✦        .        🪐       .       ✦        .       ✨
+             .              *               .       *
+       .       ┌───────⟡ Cosmic Coordinate ⟡───────┐       .
+           *   │  "Optimizing Frames, Architecting Logic,  │   .
+    ✨         │   and Navigating the Spatial Cosmos."     │         🪐
+       .       └───────────────────────────────────┘       *
+             *        .          ✦         .         *
+"광활한 디지털 우주를 탐험하며, 언제나 흥미로운 기술 항해와 협업을 환영합니다 🌌🛰️"
 ```
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
