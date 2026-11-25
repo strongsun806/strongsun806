@@ -20,6 +20,9 @@
     <a href="https://strongsun806.github.io/hyegang-portfolio/#hackathon" target="_blank">
       <img src="https://img.shields.io/badge/🏆_2026_Google_DeepMind_AI_Hackathon-6D28D9?style=plastic&logo=googlegemini&logoColor=white"/>
     </a>
+    <a href="https://github.com/strongsun806/WOORI_SSAFY_2026" target="_blank">
+      <img src="https://img.shields.io/badge/🏆_2026_WOORI_×_SSAFY_우수상-D97706?style=plastic"/>
+    </a>
     <a href="https://strongsun806.github.io/hyegang-portfolio/#projects" target="_blank">
       <img src="https://img.shields.io/badge/🧊_3D_Spatial_Web_&_WebGL-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
     </a>
@@ -114,6 +117,26 @@
   <h2>🚀 Featured Highlights</h2>
 
   <table width="100%">
+    <tr>
+      <td colspan="2" valign="top">
+        <h3 align="center">🏆 2026 WOORI × SSAFY AI Agent 아이디어 경진대회 · 우수상</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Excellence_Award-우수상-D97706?style=plastic"/>
+          <img src="https://img.shields.io/badge/우리WON뱅킹-AI_Agent-0067AC?style=plastic"/>
+          <img src="https://img.shields.io/badge/Team-WON주민-38BDF8?style=plastic"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/strongsun806/WOORI_SSAFY_2026">
+            <img src="./assets/won-isa-quote.jpg" width="80%" alt="WON이사 이사 견적 화면과 Agent 실행 로그"/>
+          </a>
+        </p>
+        <p align="left">
+          <b><a href="https://github.com/strongsun806/WOORI_SSAFY_2026">🏦 WON이사 — AI 금융 이사 매니저</a></b><br/>
+          주거래 은행 이동의 비용·혜택·시점을 견적으로 보여 주고, 자동이체·급여계좌 이전 계획부터 소비 분석·상품 추천·꿀머니 퀘스트로 정착까지 돕는 AI Agent입니다. <b>AI는 해석 · 시스템은 검증 · 고객은 승인</b> 원칙으로, 팀 자체 평가(qwen3:8b · 가상 데이터 · 3회 반복)에서 <code>승인 없는 실행 0건</code> · <code>이사 시나리오 21/21</code>을 기록했어요.<br/>
+          <sub>🙋‍♀️ My Role: 장면별 앱 목업 & Agent 실행 로그 데모 화면 설계·구현 · 시연 영상 · 결선 발표자료 제작</sub>
+        </p>
+      </td>
+    </tr>
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">✨ 2026 Google DeepMind AI Hackathon</h3>
