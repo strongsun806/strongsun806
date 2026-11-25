@@ -26,9 +26,6 @@
     <a href="https://strongsun806.github.io/hyegang-portfolio/#projects" target="_blank">
       <img src="https://img.shields.io/badge/🧊_3D_Spatial_Web_&_WebGL-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
     </a>
-    <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/🪐_Celestial_3D_Engineer-0284C7?style=plastic&logo=astronomy&logoColor=white"/>
-    </a>
   </p>
 
   <!-- 소셜 & 포트폴리오 링크 -->
@@ -53,22 +50,10 @@
 
   <br/>
 
-  <!-- 3. 3D 아이소메트릭 플로팅 코어 카드 (DeepMind 해커톤 & 3D 웹 & 핀테크/AI) -->
-  <h2>🧊 3D Core Pillars</h2>
+  <!-- 3. 기술 스택 -->
+  <h2>🛠️ Tech Stack</h2>
 
-  <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-    <img src="./assets/3d-milestone-cubes.svg" width="100%" alt="3D Floating Milestone Cards"/>
-  </a>
 
-  <br/><br/>
-
-  <!-- 4. 귀여운 3D 입체 키캡 & 스쿼클 스킬셋 (Cute 3D Keycaps & Toolbox) -->
-  <h2>🎹 3D Tactile Skill Deck</h2>
-  <p><sub>입체감 있게 반응하는 3D 기하학 키캡과 카테고리별 핵심 기술 스택이에요 ✨</sub></p>
-
-  <img src="./assets/3d-keycaps.svg" width="100%" alt="3D Mechanical Keycaps Skillset"/>
-
-  <br/><br/>
 
   <table width="100%">
     <tr>
@@ -113,7 +98,7 @@
 
   <br/>
 
-  <!-- 5. 대표 하이라이트 & 프로젝트 (깔끔한 2x3 카드) -->
+  <!-- 4. 대표 프로젝트 -->
   <h2>🚀 Featured Highlights</h2>
 
   <table width="100%">
@@ -223,123 +208,22 @@
 
   <br/>
 
-  <!-- 6. 보이는 실험실: 기하학 & 쉐이더 관측소 (Visual R&D Lab) -->
-  <h2>🧪 Visual R&D Lab: Geometric &amp; Shader Observatory</h2>
-  <p><sub>수학적 기하학(Geometry)과 WebGL/GLSL 쉐이더 연산을 시각화하는 권혜강의 실시간 공간 웹 실험실이에요 🔭</sub></p>
+  <!-- 5. 수상 & 활동 -->
+  <h2>🏆 Awards &amp; Activities</h2>
 
-  <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-    <img src="./assets/visual-lab-hud.svg" width="100%" alt="Visual Lab HUD Telemetry Console"/>
-  </a>
-
-  <br/><br/>
-
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🪐 Lab 01: Keplerian Orbit &amp; N-Body</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=threedotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GPGPU-38BDF8?style=plastic"/>
-          <img src="https://img.shields.io/badge/Physics_Engine-6366F1?style=plastic"/>
-        </p>
-        <p align="left">
-          <b>Celestial Gravitational Field Simulator</b><br/>
-          케플러 제1·2·3법칙과 다체 문제(N-body problem)의 중력 섭동 역학을 브라우저에서 계산합니다. 1,000+ 천체 궤도를 GPGPU 연산으로 오프스크린 계산하여 프레임 드랍 없는 궤적 렌더링을 구현합니다.
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">💠 Lab 02: 4D Hypercube Projection</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/WebGL2-990000?style=plastic&logo=webgl&logoColor=white"/>
-          <img src="https://img.shields.io/badge/4D_Stereographic-8B5CF6?style=plastic"/>
-          <img src="https://img.shields.io/badge/Math_Topology-10B981?style=plastic"/>
-        </p>
-        <p align="left">
-          <b>SO(4) Non-Euclidean Wireframe Sandbox</b><br/>
-          4차원 공간 회전군 $SO(4)$의 회전 행렬을 3차원 입체 공간으로 실시간 스테레오그래픽 투영(Stereographic Projection)하는 기하학적 시각화 엔진입니다. 16개 꼭짓점과 32개 모서리의 단면을 마우스로 탐색합니다.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🌌 Lab 03: Raymarched Event Horizon</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/GLSL_Shader-555555?style=plastic&logo=opengl&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Raymarching-F59E0B?style=plastic"/>
-          <img src="https://img.shields.io/badge/Relativity-06B6D4?style=plastic"/>
-        </p>
-        <p align="left">
-          <b>Spacetime Gravitational Lensing Engine</b><br/>
-          일반상대성이론의 슈바르츠실트 블랙홀 시공간 곡률을 단일 Fragment Shader 상에서 레이마칭(Raymarching) 기법으로 렌더링합니다. 배경 성단의 중력 렌즈 왜곡과 광자구(Photon Sphere)를 수치해석적으로 시뮬레이션합니다.
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🔊 Lab 04: Spatial Audio &amp; 10K Nebula</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Web_Audio_API-E11D48?style=plastic"/>
-          <img src="https://img.shields.io/badge/10K_InstancedMesh-3B82F6?style=plastic"/>
-          <img src="https://img.shields.io/badge/FFT_Reactive-10B981?style=plastic"/>
-        </p>
-        <p align="left">
-          <b>3D Positional Sound &amp; Voxel Particle Galaxy</b><br/>
-          브라우저의 Web Audio API <code>PannerNode</code>를 가상 3D 카메라 좌표계와 동기화하고, FFT 오디오 스펙트럼의 주파수 대역별 진폭에 따라 10,000개의 복셀 파티클 성운이 실시간으로 팽창·진동하는 인터랙티브 사운드스케이프입니다.
-        </p>
-      </td>
-    </tr>
+  <table>
+    <tr><th>시기</th><th align="left">내용</th></tr>
+    <tr><td><code>2026.11</code></td><td>🥈 <b>2026 WOORI × SSAFY 우리WON뱅킹 AI Agent 아이디어 경진대회 우수상</b> — <a href="https://github.com/strongsun806/WOORI_SSAFY_2026">WON이사</a> (Team WON주민)</td></tr>
+    <tr><td><code>2026.02</code></td><td>✨ <b>2026 Google DeepMind AI Hackathon</b> 출품 — <a href="https://github.com/strongsun806/GDM_HACK1">SafeCity AI</a> (Track 3: AI for Social Good)</td></tr>
+    <tr><td><code>2025</code></td><td>🥇 <b>2025 부산라이즈혁신원 광고 영상 숏폼 해커톤 대상</b></td></tr>
+    <tr><td><code>Now</code></td><td>🎓 <b>SSAFY 16기</b> Python Track 수강 중</td></tr>
+    <tr><td><code>Mentoring</code></td><td>🤖 도원고 · 문경여고 · 용마고 피지컬 컴퓨팅 출강, 대학생 비전 AI 코칭</td></tr>
   </table>
 
   <br/>
 
-  <!-- 7. 3D 공간 컴퓨팅 아키텍처 & 설계 철학 (Spatial Architecture Matrix) -->
-  <h2>📐 Spatial Engineering &amp; Architecture Matrix</h2>
-  <p><sub>타협 없는 프레임율과 견고한 시스템 설계를 위한 3대 핵심 엔지니어링 원칙이에요 🧊</sub></p>
-
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <br/>
-        <b>⚡ Zero-Stutter 60 FPS</b>
-        <br/><br/>
-        <p>
-          <img src="https://img.shields.io/badge/OffscreenCanvas-0284C7?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Web_Workers-F59E0B?style=flat-square"/>
-        </p>
-        <p align="left">
-          메인 UI 스레드와 3D 렌더링·계산 파이프라인을 완전히 분리합니다. 무거운 물리 및 기하 연산 중에도 16.6ms 프레임 예산을 엄수하여 끊김 없는 부드러움을 보장합니다.
-        </p>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <br/>
-        <b>🎯 1-Call Geometry Batching</b>
-        <br/><br/>
-        <p>
-          <img src="https://img.shields.io/badge/InstancedMesh-8B5CF6?style=flat-square"/>
-          <img src="https://img.shields.io/badge/GPU_Buffer-10B981?style=flat-square"/>
-        </p>
-        <p align="left">
-          수천 개의 노드와 센서 객체를 단일 <code>InstancedMesh</code>와 동적 Matrix 버퍼로 병합합니다. GPU 드로우콜을 극소화하여 모바일 및 저사양 환경에서도 즉각 구동됩니다.
-        </p>
-      </td>
-      <td width="34%" align="center" valign="top">
-        <br/>
-        <b>🛡️ Verifiable AI Safety Loop</b>
-        <br/><br/>
-        <p>
-          <img src="https://img.shields.io/badge/LangGraph_RAG-6366F1?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Safety_Verifier-EC4899?style=flat-square"/>
-        </p>
-        <p align="left">
-          AI 에이전트의 생성 결과에 안전 검증 루프(Verifier Loop)와 규칙 엔진(Rule Engine)을 결합합니다. 재난 관제와 금융 정산 등 오차가 허용되지 않는 도메인에서 무결성을 증명합니다.
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- 8. 3D 입체 잔디 (3D Isometric Contribution Grass) & 활동 지표 -->
-  <h2>🌱 3D Contribution Grass &amp; Telemetry</h2>
-  <p><sub>실제 GitHub 커밋 데이터를 기반으로 입체 복셀(Voxel) 블록이 살아 움직이는 3D 잔디예요 🧊</sub></p>
+  <!-- 6. GitHub 활동 -->
+  <h2>🌱 GitHub Activity</h2>
 
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Grass"/>
 
@@ -355,73 +239,6 @@
   </p>
 
   <br/>
-
-  <br/>
-
-  <!-- 9. 2026 우주 탐구 궤도 & 로드맵 (Orbital Roadmap) -->
-  <h2>🛰️ Orbital Roadmap: 2026 Exploration Trajectory</h2>
-  <p><sub>디지털 공간과 인공지능의 지평을 넓혀가는 권혜강의 탐구 궤도예요 🌌</sub></p>
-
-  <table width="100%">
-    <tr>
-      <td width="25%" align="left" valign="top">
-        <b>🚀 Phase 01: Social Impact</b><br/>
-        <small><code>Google DeepMind Hackathon</code></small>
-        <ul>
-          <li>SafeCity AI 3D 디지털 트윈 관제</li>
-          <li>Gemini 4 Argon 멀티모달 긴급 대피 동선 최적화</li>
-          <li>교통약자 안전 경로 검증 루프 구현</li>
-        </ul>
-      </td>
-      <td width="25%" align="left" valign="top">
-        <b>🪐 Phase 02: Spatial Compute</b><br/>
-        <small><code>WebGPU &amp; Next-Gen Shaders</code></small>
-        <ul>
-          <li>WebGPU Compute Shader 파이프라인 R&amp;D</li>
-          <li>10만 단위 N-Body 천체 중력장 시뮬레이션</li>
-          <li>비유클리드 4D 공간 기하 투영 엔진 오픈소스화</li>
-        </ul>
-      </td>
-      <td width="25%" align="left" valign="top">
-        <b>🛰️ Phase 03: Autonomous Agents</b><br/>
-        <small><code>Spatial Agentic Console</code></small>
-        <ul>
-          <li>3D 공간 인터랙션 기반 에이전트 인터페이스</li>
-          <li>LangGraph 멀티 에이전트 실시간 협업 콘솔</li>
-          <li>ChromaDB 대규모 지식 그래프 3D 시각화</li>
-        </ul>
-      </td>
-      <td width="25%" align="left" valign="top">
-        <b>🌌 Phase 04: Ecosystem &amp; Scale</b><br/>
-        <small><code>Open Source &amp; Mentorship</code></small>
-        <ul>
-          <li>고성능 Spatial Web React 컴포넌트 덱 배포</li>
-          <li>미래 세대를 위한 피지컬 컴퓨팅 멘토링 지속</li>
-          <li>글로벌 테크 컨퍼런스 기여 및 기술 블로그 기고</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- 10. 기하학 & 천문학 마무리 시그니처 -->
-  <h2>🌌 Celestial Observational Lounge</h2>
-
-  <img src="./assets/cosmic-audio-player.svg" width="95%" alt="Cosmic Audio Visualizer"/>
-
-  <br/><br/>
-
-```text
-       ✦        .        🪐       .       ✦        .       ✨
-             .              *               .       *
-       .       ┌───────⟡ Cosmic Coordinate ⟡───────┐       .
-           *   │  "Optimizing Frames, Architecting Logic,  │   .
-    ✨         │   and Navigating the Spatial Cosmos."     │         🪐
-       .       └───────────────────────────────────┘       *
-             *        .          ✦         .         *
-"광활한 디지털 우주를 탐험하며, 언제나 흥미로운 기술 항해와 협업을 환영합니다 🌌🛰️"
-```
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
