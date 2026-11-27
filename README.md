@@ -216,6 +216,7 @@
     <tr><td><code>2026.11</code></td><td>🥈 <b>2026 WOORI × SSAFY 우리WON뱅킹 AI Agent 아이디어 경진대회 우수상</b> — <a href="https://github.com/strongsun806/WOORI_SSAFY_2026">WON이사</a> (Team WON주민)</td></tr>
     <tr><td><code>2026.02</code></td><td>✨ <b>2026 Google DeepMind AI Hackathon</b> 출품 — <a href="https://github.com/strongsun806/GDM_HACK1">SafeCity AI</a> (Track 3: AI for Social Good)</td></tr>
     <tr><td><code>2025</code></td><td>🥇 <b>2025 부산라이즈혁신원 광고 영상 숏폼 해커톤 대상</b></td></tr>
+    <tr><td><code>2022.09</code></td><td>🧪 <b>2022 대구×청년 소셜리빙랩</b> 참여 — 코오더 팀, 배달비 부담 완화를 위한 묶음 배달서비스 앱 개발 (<a href="https://www.smnews.co.kr/default/index_view_page.php?idx=173636">최종공유회 기사</a>)</td></tr>
     <tr><td><code>Now</code></td><td>🎓 <b>SSAFY 16기</b> Python Track 수강 중</td></tr>
     <tr><td><code>Mentoring</code></td><td>🤖 도원고 · 문경여고 · 용마고 피지컬 컴퓨팅 출강, 대학생 비전 AI 코칭</td></tr>
   </table>
