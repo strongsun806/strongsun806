@@ -46,11 +46,7 @@
 
   <!-- 실시간 지표 뱃지 -->
   <p>
-    <a href="https://github.com/strongsun806?tab=followers"><img src="https://img.shields.io/github/followers/strongsun806?style=flat-square&logo=github&label=Followers&color=38bdf8&labelColor=0d1117"/></a>
-    <a href="https://github.com/strongsun806?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/strongsun806?affiliations=OWNER&style=flat-square&logo=apachespark&logoColor=fbbf24&label=Stars&color=fbbf24&labelColor=0d1117"/></a>
     <img src="https://komarev.com/ghpvc/?username=strongsun806&style=flat-square&color=a78bfa&label=Profile+Views"/>
-    <a href="https://strongsun806.github.io/hyegang-portfolio/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstrongsun806.github.io%2Fhyegang-portfolio%2F&style=flat-square&label=Portfolio&up_message=online&down_message=offline&labelColor=0d1117"/></a>
-    <a href="https://github.com/strongsun806/hyegang-portfolio/commits/main"><img src="https://img.shields.io/github/last-commit/strongsun806/hyegang-portfolio?style=flat-square&label=Portfolio+updated&color=34d399&labelColor=0d1117"/></a>
   </p>
 
   <br/>
