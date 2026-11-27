@@ -126,8 +126,8 @@
       <td width="50%" valign="top">
         <h3 align="center">✨ 2026 Google DeepMind AI Hackathon</h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Google_DeepMind-4285F4?style=plastic&logo=google&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Gemini_4_Argon-8E75B2?style=plastic&logo=googlegemini&logoColor=white"/>
+          <img src="./assets/badges/google-deepmind.svg"/>
+          <img src="./assets/badges/gemini-4-argon.svg"/>
           <img src="https://img.shields.io/badge/Three.js_3D_Twin-0284C7?style=plastic&logo=threedotjs&logoColor=white"/>
         </p>
         <p align="left">
@@ -139,7 +139,7 @@
         <h3 align="center">🔷 FINDER</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=threedotjs&logoColor=white"/>
-          <img src="https://img.shields.io/badge/R3F-61DAFB?style=plastic&logo=react&logoColor=black"/>
+          <img src="./assets/badges/r3f.svg"/>
           <img src="https://img.shields.io/badge/Web_Worker-F59E0B?style=plastic"/>
         </p>
         <p align="left">
@@ -153,7 +153,7 @@
         <h3 align="center">✈️ TripPilot</h3>
         <p align="center">
           <a href="https://trippilothyegang.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Service-trippilothyegang-059669?style=plastic&logo=streamlit&logoColor=white"/>
+            <img src="./assets/badges/live-service-trippilot.svg"/>
           </a>
           <img src="https://img.shields.io/badge/LangGraph_RAG-10B981?style=plastic&logo=langchain&logoColor=white"/>
           <img src="https://img.shields.io/badge/ChromaDB-E11D48?style=plastic"/>
