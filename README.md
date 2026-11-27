@@ -12,7 +12,7 @@
 
   <!-- 실시간 타이핑 애니메이션 -->
   <a href="https://strongsun806.github.io/hyegang-portfolio/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B6%8C%ED%98%9C%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;Navigating+Geometric+%26+Celestial+3D+Digital+Universes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EA%B6%8C%ED%98%9C%EA%B0%95%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Resilient+Frontend+Engineer;2026+Google+DeepMind+AI+Hackathon+Participant+%F0%9F%9A%80;2026+WOORI+%C3%97+SSAFY+AI+Agent+Contest+Excellence+Award+%F0%9F%8F%86;Navigating+Geometric+%26+Celestial+3D+Digital+Universes" alt="Typing SVG" />
   </a>
 
   <!-- 3D 입체 글로시(Plastic) 키워드 뱃지 -->
@@ -42,6 +42,15 @@
     <a href="mailto:khg010806@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
+  </p>
+
+  <!-- 실시간 지표 뱃지 -->
+  <p>
+    <a href="https://github.com/strongsun806?tab=followers"><img src="https://img.shields.io/github/followers/strongsun806?style=flat-square&logo=github&label=Followers&color=38bdf8&labelColor=0d1117"/></a>
+    <a href="https://github.com/strongsun806?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/strongsun806?affiliations=OWNER&style=flat-square&logo=apachespark&logoColor=fbbf24&label=Stars&color=fbbf24&labelColor=0d1117"/></a>
+    <img src="https://komarev.com/ghpvc/?username=strongsun806&style=flat-square&color=a78bfa&label=Profile+Views"/>
+    <a href="https://strongsun806.github.io/hyegang-portfolio/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstrongsun806.github.io%2Fhyegang-portfolio%2F&style=flat-square&label=Portfolio&up_message=online&down_message=offline&labelColor=0d1117"/></a>
+    <a href="https://github.com/strongsun806/hyegang-portfolio/commits/main"><img src="https://img.shields.io/github/last-commit/strongsun806/hyegang-portfolio?style=flat-square&label=Portfolio+updated&color=34d399&labelColor=0d1117"/></a>
   </p>
 
   <br/>
@@ -238,6 +247,19 @@
   <p>
     <img src="https://streak-stats.demolab.com/?user=strongsun806&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8" height="155"/>
   </p>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/strongsun806/celestial-github-profile/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="155" alt="Productive Time"/>
+    <img src="https://raw.githubusercontent.com/strongsun806/celestial-github-profile/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="155" alt="Most Commit Language"/>
+  </p>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strongsun806/celestial-github-profile/main/assets/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strongsun806/celestial-github-profile/main/assets/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/strongsun806/celestial-github-profile/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+  </picture>
 
   <br/>
 
